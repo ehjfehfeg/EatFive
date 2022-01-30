@@ -2,9 +2,9 @@
 <html>
 
 <head>
-    <title>吃掉小五</title>
-    <meta itemprop="name" content="吃掉小五" />
-    <meta itemprop="description" content="对小五没有任何恶意" />
+    <title>phigros</title>
+    <meta itemprop="name" content="（确信）" />
+    <meta itemprop="description" content="(lolol)" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
