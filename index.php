@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>phigros</title>
+    <title>phigros（确信）</title>
     <meta itemprop="name" content="（确信）" />
     <meta itemprop="description" content="(lolol)" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
